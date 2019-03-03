@@ -1,6 +1,6 @@
 FROM alpine
 
-LABEL maintainer="Shunsuke Miyoshi <swfft814@gmail.com>"
+LABEL maintainer="Shunsuke Miyoshi <s.miyoshi1991@gmail.com>"
 
 RUN apk --no-cache add curl gettext
 
